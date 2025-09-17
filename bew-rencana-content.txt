@@ -1,5 +1,7 @@
 RENCANA KONTEN BEW
 - Javascript
+  *ES6
+  *Framwork Javascript
 - PHP framcwork
 - interview
 - Vlogs
