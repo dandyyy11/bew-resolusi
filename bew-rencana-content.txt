@@ -7,6 +7,6 @@ RENCANA KONTEN BEW
 - Struktur Data Dasar
 - PHP framework
   ^ Laravel
-- interview
+- Interview
 - Vlogs
 - Python
