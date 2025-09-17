@@ -1,0 +1,1 @@
+Bew Resolusi Kedepan
