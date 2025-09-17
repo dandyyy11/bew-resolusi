@@ -2,6 +2,7 @@ RENCANA KONTEN BEW
 - Javascript
   *ES6
   *Framwork Javascript
+- Struktur Data Dasar
 - PHP framcwork
 - interview
 - Vlogs
