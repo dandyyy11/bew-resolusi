@@ -1,10 +1,12 @@
 RENCANA KONTEN BEW
 - Javascript
   *ES6
-  *Framwork Javascript
-    ^ Angular
+  *Framework Javascript
+    ^ Vue
     ^ React
-- PHP Framecworks
+- Struktur Data Dasar
+- PHP framework
   ^ Laravel
 - Interview
 - Vlogs
+- Python
